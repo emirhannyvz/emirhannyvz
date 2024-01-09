@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emirhannyvz
 - 👀 I’m interested in Cyber Security and Programming
-- 🌱 I’m currently learning Networking and Programming
 
 
 <!---
