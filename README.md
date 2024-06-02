@@ -31,7 +31,7 @@
 <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emirhannyvz&theme=dark)](https://git.io/streak-stats)
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=emirhannyvz&theme=dark" alt="GitHub Streak" /></a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
