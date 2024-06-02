@@ -21,7 +21,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://www.linkedin.com/in/emirhannyavuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emirhan Yavuz" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/emirhannyvz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Emirhan Yavuz" height="30" width="40" /></a>
-<a href="https://emirhanyavuz.online" target="blank"><img align="center" src="https://github.com/emirhannyvz/emirhannyvz/assets/156102154/28b35513-5368-4dc7-93f0-32c14e3980e5" alt="Emirhan Yavuz" height="30" width="40" /></a>
+<a href="https://emirhanyavuz.online" target="blank"><img align="center" src="https://github.com/emirhannyvz/emirhannyvz/assets/156102154/76e334a4-4cf0-402d-b8fd-26db27979587" alt="Emirhan Yavuz" height="30" width="40" /></a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Languages and Tools:</h3>
