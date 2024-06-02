@@ -16,14 +16,6 @@
 
 - 📫 How to reach me **yvzyazilim@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://www.linkedin.com/in/emirhannyavuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emirhan Yavuz" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/emirhannyvz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Emirhan Yavuz" height="30" width="40" /></a>
-<a href="https://emirhanyavuz.online" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/internet-globe-white-icon-download-png-701751695035232hl9o86sngl.png" alt="Emirhan Yavuz" height="30" width="40" /></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h2 align="center">Skills </h2>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://skillicons.dev">
