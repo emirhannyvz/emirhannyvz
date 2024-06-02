@@ -1,4 +1,5 @@
 ![MasterHead](https://github.com/emirhannyvz/emirhannyvz/assets/156102154/c4a67573-2868-4ac8-9ad2-a328d58c48de)
+[![Discord Presence](https://lanyard.cnrad.dev/api/354682007974051864)](https://discord.com/users/354682007974051864)
 
 <h1 align="center">Hi 👋, I'm Emirhan Yavuz</h1>
 <h3 align="center">Adım Emirhan, 20 yaşındayım. Siber güvenlik ve yazılım alanlarında alanlarda çalışmalar yapıyorum.</h3>
