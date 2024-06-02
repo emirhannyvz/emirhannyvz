@@ -14,8 +14,6 @@
 
 <h3 align="left">&nbsp; Adım Emirhan, 20 yaşındayım. Siber güvenlik ve yazılım alanlarında alanlarda çalışmalar yapıyorum.</h3>
 
-- 📫 How to reach me **yvzyazilim@gmail.com**
-
 <h2 align="center">Skills </h2>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
