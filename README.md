@@ -21,3 +21,11 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,linux" align="center"/>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
