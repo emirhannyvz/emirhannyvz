@@ -12,7 +12,7 @@
  </a>
 </div>
 
-<h3 align="left">&nbsp; Adım Emirhan, 20 yaşındayım. Siber güvenlik ve yazılım alanlarında alanlarda çalışmalar yapıyorum.</h3>
+<h3 align="left">&nbsp; Adım Emirhan, 20 yaşındayım. Siber güvenlik ve yazılım alanlarında çalışmalar yapıyorum.</h3>
 
 <br>
 
