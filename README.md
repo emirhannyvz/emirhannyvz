@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=emirhannyvz&color=blue)
 
 <p href="https://discord.com/users/354682007974051864" align="center" width="1000px">
-    [![Discord Presence](https://lanyard.cnrad.dev/api/354682007974051864)](https://discord.com/users/354682007974051864)
+    ![Discord Presence](https://lanyard.cnrad.dev/api/354682007974051864)](https://discord.com/users/354682007974051864)
 </p>
 
 <div align="center">
